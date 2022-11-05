@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahperShahin
-- 👀 I’m interested in Full Stack Devlopment.
+- 👀 I’m interested in Full Stack Devlopment, Machine Learning and Web Development.
 - 💞️ I’m looking to collaborate on anything & everything.
 - 📫 How to reach me @shahpershahin
 
