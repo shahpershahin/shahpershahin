@@ -91,9 +91,9 @@
 </p> <br>
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /> </p> 
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" /> &nbsp; <p><img src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /> </p> </p> 
 
-<p></p> <br> 
+<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
