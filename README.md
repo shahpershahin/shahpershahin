@@ -1,18 +1,17 @@
-<h1 align="center">Hey there 👋, I'm Shahper Shahin</h1>
+<h1 align="center"> Hey there 👋, I'm Shahper Shahin </h1>
 <h3 align="center">A Software Engineer with a passion for building innovative and user-friendly software that solves the human problems and loves to learn new tech-stacks.</h3>
 <br>
 
-<p align="left" style="border: 20px solid #000000;"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=shahpershahin" alt="shahpershahin" /></a> </p> 
+• 🌱 I’m currently exploring the realm of **Software Development & AI/ML**
 
-- 🌱 I’m currently exploring the realm of **Software Development & AI/ML**
+• 👨‍💻 All of my projects are available at: [ Shahper's  GitLab ](https://github.com/ShahperShahin)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShahperShahin](https://github.com/ShahperShahin)
+• 📝 I regularly write articles on: [ Shahper's  Substack ](https://shahpershahin.substack.com/)
 
-- 📝 I regularly write articles on [https://shahpershahin.substack.com/](https://shahpershahin.substack.com/)
+• 💬 Ask me anything on: [ Shahper's Reddit ](https://www.reddit.com/user/ShahperShahin)
 
-- 📫 How to reach me **https://www.reddit.com/user/ShahperShahin**
+• ⚡ Fun fact **I find it difficult to name my files and variables 😂**
 
-- ⚡ Fun fact **I find it difficult to name my files and variables 😂**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -92,9 +91,9 @@
 </p> <br>
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" />  </p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /> </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /></p> <br> 
+<p></p> <br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
