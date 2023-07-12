@@ -15,20 +15,6 @@
 - ⚡ Fun fact **I find it difficult to name my files and variables 😂**
 <br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19462873/shahper-shahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19462873/shahper-shahin" height="30" width="40" /></a>
-<a href="https://kaggle.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="https://medium.com/@shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahpershahin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="/https://shahpershahin.substack.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shahpershahin.substack.com/" height="30" width="40" /></a>
-</p> <br>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p class =" bg-gray-200 "align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -106,8 +92,17 @@
 </p> <br>
  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" />  </p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" />  </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /></p> <br> 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahpershahin&" alt="shahpershahin" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahpershahin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahpershahin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19462873/shahper-shahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19462873/shahper-shahin" height="30" width="40" /></a>
+<a href="https://kaggle.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahpershahin" height="30" width="40" /></a>
+<a href="https://medium.com/@shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahpershahin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahpershahin" height="30" width="40" /></a>
+<a href="/https://shahpershahin.substack.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shahpershahin.substack.com/" height="30" width="40" /></a>
+</p> <br> 
