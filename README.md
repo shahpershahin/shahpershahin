@@ -91,7 +91,7 @@
 </p> <br>
  
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shahpershahin&show_icons=true&locale=en&layout=compact" alt="shahpershahin" width="450" height="200" /> &nbsp; <p><img src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /> </p> </p> 
+<p><img src="https://github-readme-stats.vercel.app/api?username=shahpershahin&show_icons=true&theme=highcontrast&title_color=d747b0&text_color=259eb6&locale=en" alt="shahpershahin" /> </p>  
 
 <br> 
 
