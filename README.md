@@ -1,5 +1,7 @@
 <h1 align="center"> Hey there 👋, I'm Shahper Shahin </h1>
-<h3 align="center">A Software Engineer with a passion for building innovative and user-friendly software that solves the human problems and loves to learn new tech-stacks.</h3>
+<h4 align="left" >Picture me as a Software Engineer on a mission! <br>
+My playground? <br>
+The digital realm where I whip up software that's as user-friendly as a high-five. I've got this knack for turning everyday headaches into smooth-sailing experiences, all thanks to my tech-powered wizardry. But here's the kicker – I'm a total tech explorer. I dive into new tech stacks like a treasure hunter, always looking for shiny gems to add to my toolkit. So yeah, you could say I'm turning problems into possibilities, one code at a time. 🚀</h4>
 <br>
 
 • 🌱 I’m currently exploring the realm of **Software Development & AI/ML**
