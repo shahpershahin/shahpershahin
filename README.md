@@ -1,8 +1,13 @@
-<h1 align="center"> Hey there 👋, I'm Shahper Shahin </h1>
-<h4 align="left" >Picture me as a Software Engineer on a mission! <br>
-My playground? <br>
-The digital realm where I whip up software that's as user-friendly as a high-five. I've got this knack for turning everyday headaches into smooth-sailing experiences, all thanks to my tech-powered wizardry. But here's the kicker – I'm a total tech explorer. I dive into new tech stacks like a treasure hunter, always looking for shiny gems to add to my toolkit. So yeah, you could say I'm turning problems into possibilities, one code at a time. 🚀</h4>
-<br>
+<div align="center"> Hey there 👋, I'm Shahper Shahin </div>
+
+<div align="left" >Picture me as a Software Engineer on a mission! </div> <br>
+My playground?
+
+  
+
+
+
+The digital realm where I whip up software that's as user-friendly as a high-five. I've got this knack for turning everyday headaches into smooth-sailing experiences, all thanks to my tech-powered wizardry. But here's the kicker – I'm a total tech explorer. I dive into new tech stacks like a treasure hunter, always looking for shiny gems to add to my toolkit. So yeah, you could say I'm turning problems into possibilities, one code at a time. 🚀 
 
 • 🌱 I’m currently exploring the realm of **Software Development & AI/ML**
 
@@ -99,11 +104,11 @@ The digital realm where I whip up software that's as user-friendly as a high-fiv
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
-<a href="https://twitter.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19462873/shahper-shahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19462873/shahper-shahin" height="30" width="40" /></a>
-<a href="https://kaggle.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="https://medium.com/@shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahpershahin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahpershahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahpershahin" height="30" width="40" /></a>
-<a href="/https://shahpershahin.substack.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shahpershahin.substack.com/" height="30" width="40" /></a>
+<a href="https://twitter.com/shahpershahin" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/da3ecf6c-5593-4037-b8c0-823bd8572d0a" alt="shahpershahin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shahpershahin" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/0daa6ee1-e2dc-42d3-b321-01126888b277" alt="shahpershahin" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19462873/shahper-shahin" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/def59934-fcd4-4558-b23e-6efe332f565a" alt="https://stackoverflow.com/users/19462873/shahper-shahin" height="40" width="40" /></a>
+<a href="https://kaggle.com/shahpershahin" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/58930524-33ac-44e1-940e-43365c0c36e1" alt="shahpershahin" height="40" width="40" /></a>
+<a href="https://medium.com/@shahpershahin" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/aee6d67a-1d52-4958-9a95-7fb9621e3e3b" alt="@shahpershahin" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/shahpershahin" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/0cbee793-13e9-4e45-910a-2c335bf83f78" alt="shahpershahin" height="30" width="40" /></a>
+<a href="/https://shahpershahin.substack.com/" target="blank"><img align="center" src="https://github.com/shahpershahin/shahpershahin/assets/74124339/c54ee16a-033a-4928-a360-fe78d813a437" alt="https://shahpershahin.substack.com/" height="40" width="40" /></a>
 </p> <br> 
