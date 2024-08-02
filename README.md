@@ -1,9 +1,6 @@
 <h1>Hi 👋, I'm Shahper Shahin</h1>
-<p>My playground? 
-  
-  
-  
-The digital realm where I whip up software that's as user-friendly as a high-five. I've got this knack for turning everyday headaches into smooth-sailing experiences, all thanks to my tech-powered wizardry. But here's the kicker – I'm a total tech explorer. I dive into new tech stacks like a treasure hunter, always looking for shiny gems to add to my toolkit. So yeah, you could say I'm turning problems into possibilities, one code at a time. 🚀</p>
+<br>
+<p>My domain is software development, where I specialize in creating user-centric applications. With a strong foundation in technology and a passion for innovation, I excel at transforming complex challenges into intuitive solutions. My proficiency lies in rapidly acquiring and applying new technologies to deliver exceptional user experiences.</p>
 
 
 • 🌱 I’m currently exploring the realm of **Software Development & AI/ML**
